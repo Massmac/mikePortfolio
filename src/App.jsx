@@ -5,7 +5,6 @@ import { Navbar } from "./componets/Navbar/Navbar";
 
 function App() {
 
-
   return (
     <div className={styles.App}> <Navbar /> 
     </div>
