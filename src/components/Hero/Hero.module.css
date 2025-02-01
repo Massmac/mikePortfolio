@@ -1,5 +1,9 @@
 @import "../../vars.css";
 
+
+/*
+styles for the hero component
+*/
 .container {
   position: relative;
   display: flex;
@@ -34,7 +38,7 @@
 }
 
 .description {
-  font-size: 30px;
+  font-size: 20px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
@@ -44,7 +48,7 @@
   background-color: var(--color-primary);
   color: var(--color-text);
   border-radius: 100px;
-  font-size: 30px;
+  font-size: 15px;
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
@@ -53,12 +57,12 @@
 .heroImg {
   width: 15%;
   z-index: 1;
-  border-radius: 30%; 
+  border-radius: 30%;
   object-fit: cover; 
 
 
   animation-name: floating;
-  animation-duration: 3s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
 }

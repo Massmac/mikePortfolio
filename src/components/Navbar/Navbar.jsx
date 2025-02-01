@@ -3,6 +3,12 @@ import React, { useState } from "react";
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
 
+/*
+The Navbar component contains the title of the portfolio, #about, #experience, #projects, and #contact links.
+Michael Tettey Tamatey.
+Date 2021-09-01
+*/
+
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -31,6 +37,9 @@ export const Navbar = () => {
           </li>
           <li>
             <a href="#experience">Experience</a>
+          </li>
+          <li>
+            <a href="#skills">Skills</a>
           </li>
           <li>
             <a href="#projects">Projects</a>

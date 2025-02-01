@@ -1,7 +1,7 @@
 [
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "title": "HTML/CSS",
+      "imageSrc": "/assets/skills/htmlcssLogo.png"
     },
     {
       "title": "CSS",
@@ -22,6 +22,10 @@
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
     },
     {
       "title": "Figma",

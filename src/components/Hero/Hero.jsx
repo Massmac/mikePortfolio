@@ -3,18 +3,26 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
+
+// The title is my name, Michael Tettey Tamatey, 
+// and the description is a brief overview of my skills and experience. 
+// The image is a photo of me.
 export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Michael Tettey Tamatey</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        Driven and detail-oriented Computer Information Systems student at
+            Holland College. Proficient in Java, C#, PHP, MySQL, JavaScript, and
+            TypeScript, and front-end technologies like HTML, CSS, and React.
+            Dedicated to delivering innovative solutions and creating impactful
+            software.
         </p>
         <a href="mailto:tamateymichael99@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
+
       </div>
       <img
         src={("/assets/hero/profile.jpg")}

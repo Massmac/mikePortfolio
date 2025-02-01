@@ -5,11 +5,11 @@
     --color-text: #fff;
     --color-primary: #576cbc;
     --color-secondary: #19376d;
-    --color-dark: #0b2447;
-    --color-bg: #04152d;
+    --color-dark: #345788;
+    --color-bg: rgb(37, 10, 110);
    
     /*fonts*/
-    --font-robot: "Roboto";
+    --font-robot: "Roboto",;
 
 }
 
