@@ -4,32 +4,64 @@
       "imageSrc": "/assets/skills/htmlcssLogo.png"
     },
     {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "title": "C#",
+      "imageSrc": "/assets/skills/CLogo.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "/assets/skills/javaLogo.png"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "/assets/skills/reactLogo.png"
     },
     {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
+      "title": "Kotlin",
+      "imageSrc": "/assets/skills/kotlinLogo.jpeg"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "JavaScript",
+      "imageSrc": "/assets/skills/javascriptLogo.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "title": "Agile",
+      "imageSrc": "/assets/skills/agileLogo.jpg"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Version Control",
+      "imageSrc": "/assets/skills/gitbucketLogo.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "PHP",
+      "imageSrc": "/assets/skills/phpLogo.jpeg"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "/assets/skills/typescriptLogo.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "/assets/skills/mysqlLogo.png"
+    },
+    {
+      "title": "Leadership",
+      "imageSrc": "/assets/skills/leadershipLogo.jpg"
+    },
+    {
+      "title": "Problem Solving",
+      "imageSrc": "/assets/skills/problemLogo.png"
+    },
+    {
+      "title": "Production Management",
+      "imageSrc": "/assets/skills/productionLogo.jpg"
+    },
+    {
+      "title": "Time Management",
+      "imageSrc": "/assets/skills/timeLogo.png"
+    },
+    {
+      "title": "Attention to Detail",
+      "imageSrc": "/assets/skills/detailLogo.png"
     }
   ]
   

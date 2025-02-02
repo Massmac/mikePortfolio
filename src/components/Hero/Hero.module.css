@@ -35,10 +35,11 @@ styles for the hero component
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  
 }
 
 .description {
-  font-size: 20px;
+  font-size: 17px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
